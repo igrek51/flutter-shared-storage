@@ -10,8 +10,8 @@ funding:
   - https://github.com/sponsors/alexrintt
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=2.5.0"
+  sdk: ">=3.2.6 <4.0.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
